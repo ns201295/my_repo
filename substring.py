@@ -1,3 +1,6 @@
+# idont know y this is taking very high large time on codechef
+# while this is working on my mac in just 0.002 seconds
+
 T = input()
 ans_list = []
 for tc in range(T):
