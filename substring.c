@@ -1,5 +1,5 @@
 #import<stdio.h>
-int main()
+void main()
 {
   int T,N,i,j,a,tc,ans[100000];
   char S[100000];
@@ -23,5 +23,5 @@ int main()
     }
   for(i = 0;i < T;i++)
     printf("%d\n",ans[i]);
-  return 0;
+  //return 0;
 }
